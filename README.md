@@ -2,7 +2,7 @@
 A desktop application using Grounding DINO and SAM (ViT-B) for zero-shot detection and color analysis of uranium glass objects.
 # CREDITS AND ATTRIBUTION
 
-This project, "SAM Uranium Glass Analyzer," is proprietary software authored by Fluorescent_Finds ©2025.
+This project, "SAM Uranium Glass Analyzer," is proprietary software authored by Florescent_Finds ©2025.
 
 Its core functionality for open-world object segmentation and detection relies on the foundational work of several excellent open-source projects. We adhere to the terms of their respective licenses.
 
